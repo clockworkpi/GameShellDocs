@@ -5,3 +5,5 @@
 [GameShell](https://www.clockworkpi.com/) is a modular handheld console that allows you to play & modify retro games and DIY new devices.
 
 Please visit our [forum](https://forum.clockworkpi.com/) for more information.
+
+![GameShell coming soon...](https://raw.githubusercontent.com/clockworkpi/GameShellDocs/master/coming%20soon.png)
